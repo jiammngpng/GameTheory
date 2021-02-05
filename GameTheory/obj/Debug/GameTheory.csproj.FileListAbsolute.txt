@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\GameTheory\bin\Debug\GameTheory.exe.config
+C:\Users\DELL\source\repos\GameTheory\bin\Debug\GameTheory.exe
+C:\Users\DELL\source\repos\GameTheory\bin\Debug\GameTheory.pdb
+C:\Users\DELL\source\repos\GameTheory\obj\Debug\GameTheory.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GameTheory\obj\Debug\GameTheory.Form1.resources
+C:\Users\DELL\source\repos\GameTheory\obj\Debug\GameTheory.Properties.Resources.resources
+C:\Users\DELL\source\repos\GameTheory\obj\Debug\GameTheory.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GameTheory\obj\Debug\GameTheory.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GameTheory\obj\Debug\GameTheory.exe
+C:\Users\DELL\source\repos\GameTheory\obj\Debug\GameTheory.pdb
